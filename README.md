@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nacsamba
+# 👋 Hi, I’m Nacho
 - 👀 I’m interested in Statistics and Data Visualizations
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on process mining, digital assets investment and revenue assurance.
